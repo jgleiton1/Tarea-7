@@ -203,3 +203,17 @@ P = Vsec * Isec = 3.125 V * 0.78 A = 9.76 W
 17. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
 Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible. 
+
+4. Video 
+
+5. Conclusiones
+
+El tema principal es sobre inductores, el indutor bàsico es un componente electrico pasivo formado por un alambre enrollado alrededor de un nucleo de ahí se divide en  inductancia, carácteristicas físicas , resistencia de devando , capacitancia de devando y la Ley de Faraday. De  igual maneraa existen diferentes tipo de inductores commo el nucleo de aire, hierro y ferrita, los cuales cada uno tiene su forma para que se los puede diferenciar uno del otro.
+
+Los inductores en parale y en serie tienen relación con las resistencias puesto que sus formulas son identicas puesto que cuando esta en paralelo se aplica 1/LT=1/L1 + 1/L2 + 1/L3 + ... + 1/Ln y cuando esta en serie se aplica LT= L1 + L2 + L3 + ... + Ln. Existe una amplia variedad de formulas tanto para obtener el almacenammiento de energía,  reactancia inductiva XL, potencia de un incutor, entre otros. 
+
+Los ejercicios que se encuentran correctamente resueltos se los realizo poniendo en practica tanto teoria como la aplicación de formulas, puesto que es es den gran importancia analizar cada ejercicio para mejorar las habilidades en solución de ejercicios, además de conocer conceptos específicos que ayuden a comprender de mejor manera el tema en general y así no presentar dificultades en su resolución. 
+
+6. Bibliografìa
+
+Floyd, T. (2007). Principio de Circuitos Eléctricos. Pearson, Prentice Hall
