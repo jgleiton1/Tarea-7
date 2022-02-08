@@ -59,7 +59,7 @@ W=0.94 mJ
 
 El inductor 2 tiene tres cuartos de la inductancia del inductor 1. 
 
-6 . Se conectan cinco inductores en serie. El valor más bajo es de 5 uH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
+6. Se conectan cinco inductores en serie. El valor más bajo es de 5 uH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
 
 L=5+10+20+40+80
 
