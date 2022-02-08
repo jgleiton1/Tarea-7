@@ -404,6 +404,8 @@ Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el
 
 4. Video 
 
+https://www.youtube.com/watch?v=2CqobiXAv9c
+
 5. Conclusiones
 
 El tema principal es sobre inductores, el indutor bàsico es un componente electrico pasivo formado por un alambre enrollado alrededor de un nucleo de ahí se divide en  inductancia, carácteristicas físicas , resistencia de devando , capacitancia de devando y la Ley de Faraday. De  igual maneraa existen diferentes tipo de inductores commo el nucleo de aire, hierro y ferrita, los cuales cada uno tiene su forma para que se los puede diferenciar uno del otro.
