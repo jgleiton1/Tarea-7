@@ -126,7 +126,203 @@ Capìtulo 13
         c. 15 µs
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(15) /10)) = 11.65 V
 
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+![image](https://user-images.githubusercontent.com/94011974/152919569-44dca859-63e4-4533-ae83-8c13481642c6.png)
+
+(a) R = 100 Ω, L = 100 μH.
+
+T=I/D
+
+100 μH*1mH/(1000 μH)*1H/(1000 mH)=0,0001 H
+
+T=(0,0001 H)/(100 Ω)
+
+T=0,000001 s=1 μs
+
+(b) R = 4,7 kΩ, L = 10 mH.
+
+T=I/D
+
+10mH*1H/(1000mH)=0.01H
+
+4,7 kΩ*1000 Ω/(1 kΩ)=4700 Ω
+
+T=(0,01 H)/(4700 Ω)
+
+T=0,000002128 s=2,13 μs
+
+(c) R = 1,5 MΩ, L = 3 H.
+
+T=I/D
+
+1,5 MΩ*1000000 Ω/(1 MΩ)=1500000 Ω
+
+T=(3H)/(1500000 Ω)
+
+T=0,000002 s=2 μs
+
+27. Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![image](https://user-images.githubusercontent.com/94011974/152919703-4db4a72a-158e-43ef-90da-eac3a5180f9a.png)
+
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+
+1/L_T =1/200 μH+1/100 μH+1/400 μH
+
+1/L_T =7/400 μH
+
+L_T =400/7 μH=57,14 μH
+
+29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre.
+
+¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
+
+![image](https://user-images.githubusercontent.com/94011974/152919791-29855ab3-fdc9-428b-aa00-b63bbeedd3a4.png)
+
+L_T=L_1+L_2+L_3+⋯+L_n
+
+L_T=(50+50) mH
+
+L_T=100m
+
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+
+1/L_T =1/100 mH+1/100 mH
+
+1/L_T = 2/100 m
+
+L_T = 100/2 mH = 50 mH
+
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+
+![image](https://user-images.githubusercontent.com/94011974/152919856-6c5646c3-4fbc-4114-addd-78bc4b4da7f6.png)
+
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+
+1/L_T =1/10H+1/5H
+
+1/L_T =3/10H
+
+1/L_T =10/3 H=3,33 H
+
+L_T=L_1+L_2+L_3+⋯+L_n
+
+L_T=(3.33+1)H
+
+L_T=4.33 H
+
+33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
+
+![image](https://user-images.githubusercontent.com/94011974/152919924-4750f142-83f9-48f8-b061-982e81263ffe.png)
+
+1/L_T =1/L_1 +1/L_2 +1/L_3 +⋯+1/L_n
+
+1/L_T =1/75 μH+1/50 μH+1/25 μH+1/15 μH
+
+1/L_T =7/50 μH
+
+L_T=50/7 μH=7,14 μH
+
+35. Determine IL2 en la figura 13-52.
+
+![image](https://user-images.githubusercontent.com/94011974/152919986-aa19699b-eca5-4a34-a148-fc407b8e73bb.png)
+
+L_T=L_1+L_2+L_3+⋯+L_n
+
+500 μH*(1 mH)/(1000 μH)=0,5 mH
+
+L_T=(50+0.5+0.01)mH
+
+L_T=50,51 mH
+
 Capìtulo 14 
+
+1.¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 µH, y L2 = 4 µH?
+
+Vseg = nVpri
+
+6V = 0,1xVpri
+
+Vpri = 6V/0,1
+
+Vpri = 60V
+
+2.¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?
+
+(a) Vseg = nVpri
+
+Vseg = (1/10)100
+
+(a) = 10V
+
+¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+(b) Vsec = nVpri
+
+12 = (1/20)Vpri
+
+Vpri = 12x20
+
+(b) = 240V
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+
+![image](https://user-images.githubusercontent.com/94011974/152920130-89c73bcb-d143-4545-8948-d04a8098f05a.png)
+
+Rpri = (1/n)^2 x RL
+
+300 = (1/n)^2 x 1000
+
+300 = 1000/n^2
+
+n^2 = 10/3
+
+n = 1,83
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+Rpri = (1/n)^2 x Rl
+
+n^2 = RL/Rpri
+
+n^2 = 4/16
+
+n = 0,5
+
+9.76W
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+IL = Pseg/Vseg
+
+10A = Pseg/2.5KV
+
+Pseg = 10A x 2.5KV
+
+Pseg= 25KVA
+
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+Vseg = nVpri
+
+V1 = 0,1 (115)
+
+V1 = 11,5 V
+
+V2 = 0.2(115)
+
+V1=23V
+
+V3 = 0.2(115)
+
+V1=23V
+
+V4 = V2 + V3
+
+V4 = 23 + 23
+
+V4 = 46 V
 
 7. Determine las lecturas de medidor no especificadas en la figura 14-44.
 
