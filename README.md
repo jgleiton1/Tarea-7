@@ -24,21 +24,17 @@ Capìtulo 13
 
 1. Convierta los siguientes valores en milihenries:
 
-    a) 1H
-
+        a) 1H
         1000 mH
 
-    b) 250 uH
-
+        b) 250 uH
         0,25 mH
 
-    c) 10 uH
-
+        c) 10 uH
         0,01 mH
 
-    d) 0.0005 H
-
-       0.5 mH
+        d) 0.0005 H
+        0.5 mH
 
 2. ¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/us y L = 5 uH?  
 
@@ -104,38 +100,30 @@ Capìtulo 13
 
 ![image](https://user-images.githubusercontent.com/93958596/152914018-d3f9e5e3-5721-491b-8ebf-c48b001f2cfe.png)
 
-a.	10 µs 
-
+        a.	10 µs 
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(10) /10)) = 9.48 V
 
-b.	20 µs 
-
+        b.	20 µs 
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(20) /10)) = 12.97 V
 
-c.	30 µs 
-
+        c.	30 µs 
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(30) /10)) = 14.25 V
 
-d.	40 µs 
-
+        d.	40 µs 
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(40) /10)) = 14.73 V
 
-e.	50 µs 
-
+        e.	50 µs 
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(50) /10)) = 14.9 V
 
 12. Repita el problema 21 para los siguientes instantes:
 
-a. 2 µs
-
+        a. 2 µs
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(2) /10)) = 2.71 V
 
-b. 5 µs
-
+        b. 5 µs
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(5) /10)) = 5.9 V
 
-c. 15 µs
-
+        c. 15 µs
         vL = Vf (1- e^(-Rt/L)) = 15 (1- e^ (-1(15) /10)) = 11.65 V
 
 Capìtulo 14 
@@ -151,20 +139,16 @@ Capìtulo 14
 
 ![image](https://user-images.githubusercontent.com/93958596/152914193-0762397c-e445-44a5-a238-e962d7d7d8b2.png)
 
-a.	Corriente primaria
-
+        a.	Corriente primaria
         Ipri = nIsec = (0.5)50 mA = 25 mA
 
-b.	Corriente secundaria
-
+        b.	Corriente secundaria
         Isec = Vsec / R = 15 V / 300 Ω = 0.05 A = 50 mA
 
-c.	Voltaje secundario
-
+        c.	Voltaje secundario
         Vsec = nVpri = (0.5)30 V = 15 V
 
-d.	Potencia en la carga
-
+        d.	Potencia en la carga
         P = Vsec * Isec = 15 V * 50 mA = 750 mW
 
 9. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
