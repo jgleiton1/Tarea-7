@@ -2,7 +2,7 @@
 
 1. Objetivos 
 
-1.1. Objetivo Genrarl
+1.1. Objetivo General
 
 Resolver los ejercicios propuestos en los capítulos designados , mediantes el conocimiento de teoria y de formulas consisas, para mejorar el analisis de los problemas y así poderlos desarrollar sin dificultad. 
 
