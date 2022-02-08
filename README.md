@@ -8,8 +8,14 @@ Resolver los ejercicios propuestos en los capítulos designados , mediantes el c
 
 1.2. Objetivos Específicos
 
-Realizar un resumen sobre la teoria de los dos capítulos para tener en cuenta los coonceptos más importantes .
+- Realizar un resumen sobre la teoria de los dos capítulos para tener en cuenta los coonceptos más importantes .
 
-Mostrar las formulas más improtantes que se aplicarán en la en resulución de los ejercicios. 
+- Mostrar las formulas más improtantes que se aplicarán en la en resulución de los ejercicios. 
 
-Presentar la resolución de los ejercicios planteados en las capítulos del libro. 
+- Presentar la resolución de los ejercicios planteados en las capítulos del libro. 
+
+2. Marco teórico
+
+![image](https://user-images.githubusercontent.com/93958596/152910387-bf8b2465-c604-4fbc-8a7d-a708077efdcf.png)
+
+3. Explicación y resolucuión de los ejercicios
