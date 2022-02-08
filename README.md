@@ -65,3 +65,29 @@ L=5+10+20+40+80
 
 L=155 μH
 
+
+Capìtulo 14 
+
+13. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+![image](https://user-images.githubusercontent.com/94153604/152912635-90235d91-bfbd-40f0-840e-a7c25a73a86a.png)
+
+14. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/94153604/152912672-b14c4952-d097-4735-9d0a-38752a990d24.png)
+
+15. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/94153604/152912740-38f52163-0128-4b88-99cb-3e953deeb5f8.png)
+
+16. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+
+(a) Todos los voltajes y corrientes presentes en la carga
+
+(b) La resistencia reflejada en el primario
+
+![image](https://user-images.githubusercontent.com/94153604/152912859-2be18230-5d82-4da6-bfdc-a73f39bca8b1.png)
+
+17. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible. 
