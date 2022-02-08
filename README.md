@@ -18,6 +18,8 @@ Resolver los ejercicios propuestos en los capítulos designados , mediantes el c
 
 ![image](https://user-images.githubusercontent.com/93958596/152910387-bf8b2465-c604-4fbc-8a7d-a708077efdcf.png)
 
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/94011974/152920556-b90622ec-41fe-4157-ad9b-be17cacad4eb.jpg)
+
 3. Explicación y resolucuión de los ejercicios
 
 Capìtulo 13
